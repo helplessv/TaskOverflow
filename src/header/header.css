@@ -1,0 +1,25 @@
+header{
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    .bar{
+        display:flex;
+        img{
+            height: 50px;
+        }
+        .option{
+            padding-top: 39px;
+            font-size: 22px;
+            font-family: 'Kristen ITC';
+            
+        }
+        .profile{
+            padding-top: 28px;
+        }
+    }
+}
+

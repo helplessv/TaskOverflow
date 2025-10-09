@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-labelledby="title2 desc2" role="img">
+  <title id="title2">Профиль в круге</title>
+  <desc id="desc2">Иконка профиля внутри окружности</desc>
+  <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+  <circle cx="12" cy="9" r="3" stroke="currentColor" stroke-width="2"/>
+  <path d="M6.5 18a6.5 6.5 0 0 1 11 0" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

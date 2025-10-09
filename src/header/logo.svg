@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <style>
+    .text {
+      font-family: "Kristen ITC", cursive;
+      font-size: 40px;
+      fill: #000000;
+    }
+    .box {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 4;
+      rx: 8;
+      ry: 8;
+    }
+    .check {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+
+  <rect x="10" y="25" width="50" height="50" class="box"/>
+  <polyline points="22,50 35,63 48,37" class="check"/>
+
+  <text x="75" y="60" class="text">TaskFlow</text>
+</svg>
