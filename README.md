@@ -1,12 +1,30 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# TaskOverflow
 
-Currently, two official plugins are available:
+TaskOverflow — это минималистичная платформа для управления задачами, вдохновлённая принципами продуктивности и визуальной ясности. Проект создан как основа для расширяемого task manager'а с фокусом на чистый UI и гибкую архитектуру.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Возможности
 
-## Expanding the ESLint configuration
+- Добавление и удаление задач
+- Редактирование содержимого задач
+- Локальное хранение данных (localStorage)
+- Простая и адаптивная верстка
+- Поддержка JavaScript, HTML, CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Скриншоты
+
+*(Добавьте сюда изображения интерфейса, если появятся)*
+
+## 🛠️ Технологии
+
+- JavaScript 
+- CSS 
+- HTML 
+
+Установка
+
+```bash
+git clone https://github.com/helplessv/TaskOverflow.git
+cd TaskOverflow
+open index.html
