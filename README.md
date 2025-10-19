@@ -28,3 +28,5 @@ TaskOverflow — это минималистичная платформа для
 git clone https://github.com/helplessv/TaskOverflow.git
 cd TaskOverflow
 open index.html
+
+https://roadmap.sh/projects/task-tracker-js
